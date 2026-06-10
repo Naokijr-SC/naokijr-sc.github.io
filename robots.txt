@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://iguchiyusuke.github.io/naoki-jr-sc/sitemap.xml
+Sitemap: https://naokijr-sc.github.io/sitemap.xml
